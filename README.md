@@ -1,4 +1,4 @@
-# Python-Projects Hub
+# Python-Projects
 A collection of my personal Python projects.
 
 ## Projects
