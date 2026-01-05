@@ -1,0 +1,6 @@
+[submodule "Spotify-Wrapped-Python-Project"]
+	path = Spotify-Wrapped-Python-Project
+	url = https://github.com/stevenhernandezz/Spotify-Wrapped-Python-Project.git
+[submodule "Checkers-Game"]
+	path = Checkers-Game
+	url = https://github.com/stevenhernandezz/Checkers-Game.git
